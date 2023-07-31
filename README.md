@@ -1,4 +1,4 @@
-# LGMVIP-DATA-SCIENCE
+# LGMVIP-DATA-SCIENCE INTERNSHIP
 A repository created as a part of my Data Science Internship at LetsGrowMore. #lgmvip
 I have completed all 10 tasks. You can find them in this Repository.
 # Beginner Level Task
@@ -24,5 +24,5 @@ This level had 1 task
 1. Ml Facial Recognition and song suggestion according to mood
 
 if you want to read my experience of LGMVIP.
-# you can read here : https://medium.com/@haleema_sadia/data-science-internship-experience-at-letsgrowmore-9c22a412ea94
+you can read here : https://medium.com/@haleema_sadia/data-science-internship-experience-at-letsgrowmore-9c22a412ea94
 
